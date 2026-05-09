@@ -3,6 +3,7 @@ from abc import ABC, abstractmethod
 import ikpy, math
 
 
+# concept prototype - see repo issues
 class master_commander(ABC):
 
     @abstractmethod
